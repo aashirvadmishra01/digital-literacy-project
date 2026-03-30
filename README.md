@@ -1,4 +1,4 @@
-# digital-literacy-project# Digital Literacy Project – CSE0001
+# digital-literacy-project
 
 **Name:** Aashirvad Mishra
 **Registration No:** 25BAI11488
